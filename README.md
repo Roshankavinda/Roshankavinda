@@ -38,11 +38,12 @@
   ![](https://img.shields.io/badge/3D-Blender-informational?style=for-the-badge&logo=blender&logoColor=white&color=2bbc8a)
   
 <br>
-<img align="center" alt="Roshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Roshankavinda&show_icons=true&hide_border=false&layout=compact&theme=dracula" />
+<img align="" alt="Roshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Roshankavinda&show_icons=true&hide_border=false&layout=compact&theme=dracula" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact"/>
 </div>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact"/>
-</div>
+
+
+
 <!--
 **Roshankavinda/Roshankavinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
