@@ -1,8 +1,4 @@
 ### Hi there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Roshan !
-
-<img align="center" alt="Roshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Roshankavinda&show_icons=true&hide_border=false&layout=compact&theme=dracula" />
-</div>
-<img  alt="Roshan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact"/>
 <div align = "center">
    <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="40px"><h2><h2 style="text-align:center; font-family:Arial Black, Gadget, sans-serif">ROSHAN &nbsp;&nbsp;WICKRAMASOORIYA</h2></h2>
 
@@ -42,7 +38,9 @@
   ![](https://img.shields.io/badge/3D-Blender-informational?style=for-the-badge&logo=blender&logoColor=white&color=2bbc8a)
   
 <br>
-
+<img align="center" alt="Roshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Roshankavinda&show_icons=true&hide_border=false&layout=compact&theme=dracula" />
+</div>
+<img  alt="Roshan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact"/>
 
 
 <!--
