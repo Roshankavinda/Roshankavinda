@@ -35,8 +35,8 @@
   ![](https://img.shields.io/badge/Visual-Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Adobe-XD-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/3D-Blender-informational?style=for-the-badge&logo=blender&logoColor=white&color=2bbc8a)
-  
-<br>
+  <br>
+   
 <img align="" alt="Roshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Roshankavinda&show_icons=true&hide_border=false&layout=compact&theme=dracula"/>
  <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact"/>
