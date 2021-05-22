@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="center" alt="roshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Roshankavinda&show_icons=true&hide_border=false&layout=compact&theme=dracula" />
+<img align="center" alt="Roshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Roshankavinda&show_icons=true&hide_border=false&layout=compact&theme=dracula wave.gif" />
 </div>
 <!--
 **Roshankavinda/Roshankavinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
