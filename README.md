@@ -4,7 +4,6 @@
 
 <br>
 <p align="center"> 
-  <a href="roshanwickramasooriya1998@gmail.com"><img height="48" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Gmail-256.png"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/roshanwickramasooriya/"><img height="48" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/roshan-wickramasooriya-003b5a207/"><img height="48" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"></a>&nbsp;&nbsp;
 </p>
