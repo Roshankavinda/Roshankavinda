@@ -41,9 +41,8 @@
 <img align="center" alt="Roshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Roshankavinda&show_icons=true&hide_border=false&layout=compact&theme=dracula" />
 </div>
 <br>
-<img align="center" alt="Roshan's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact"/>
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact"/>
+</div>
 <!--
 **Roshankavinda/Roshankavinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
