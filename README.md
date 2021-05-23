@@ -1,6 +1,5 @@
 ### Hi there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Roshan !
-<br>
-![counter](https://enqc5m3df4dmddt.m.pipedream.net)](http://tod.ly/3iOKHb2)
+![counter](https://enqc5m3df4dmddt.m.pipedream.net)(http://tod.ly/3iOKHb2)
 
 <div align = "center">
    <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="40px"><h2><h2 style="text-align:center; font-family:Arial Black, Gadget, sans-serif">ROSHAN &nbsp;&nbsp;WICKRAMASOORIYA</h2></h2>
