@@ -16,7 +16,7 @@
 # <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="40px"> A B O U T _ M E
 <div align="center">
 
-<p>I am Roshan Wickramasoooriya. Undergraduate from NSBM Green University with a Software Engineering degree.</p>
+<p>I am Roshan Wickramasoooriya. Undergraduate Software Engineering student in NSBM Green University.</p>
 
 </div>
 
