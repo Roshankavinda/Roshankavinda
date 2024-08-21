@@ -1,8 +1,4 @@
-Here's the updated README file with the changes reflecting your role as a Software Quality Assurance Engineer:
-
----
-
-### Hi there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wwave.gif" width="30px"> I'm Roshan!
+### Hi there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wwave.gif" width="30px"> I'm Roshan Wickramsooriya!
 ![counter](https://enqc5m3df4dmddt.m.pipedream.net)
 
 <div align="center">
