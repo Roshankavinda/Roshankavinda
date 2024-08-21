@@ -2,12 +2,13 @@
 ![counter](https://enqc5m3df4dmddt.m.pipedream.net)
 
 <div align="center">
-   <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="40px"><h2><h2 style="text-align:center; font-family:Arial Black, Gadget, sans-serif">ROSHAN &nbsp;&nbsp;WICKRAMASOORIYA</h2></h2>
+   <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="40px"><h2><h2 style="text-align:center; font-family:Arial Black, Gadget, sans-serif">Social &nbsp;&nbsp;Links</h2></h2>
 
 <br>
 <p align="center"> 
   <a href="https://www.instagram.com/roshanwickramasooriya/"><img height="48" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/roshan-wickramasooriya-003b5a207/"><img height="48" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"></a>&nbsp;&nbsp;
+   <a href="https://roshan-wickramasooriya.netlify.app/"><img height="48" src="https://www.iconfinder.com/icons/6358082/browser_earth_global_globe_internet_website_world_icon"></a>&nbsp;&nbsp;
 </p>
 <br>
 
