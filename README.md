@@ -1,5 +1,4 @@
-### Hi there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wwave.gif" width="30px"> I'm Roshan Wickramsooriya!
-![counter](https://enqc5m3df4dmddt.m.pipedream.net)
+### Hi there, I'm Roshan Wickramsooriya!
 
 <div align="center">
    <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="40px"><h2><h2 style="text-align:center; font-family:Arial Black, Gadget, sans-serif">Social &nbsp;&nbsp;Links</h2></h2>
