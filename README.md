@@ -20,9 +20,9 @@
 
 ## About Me
 
-I'm a QA engineer focused on making software behave predictably under real conditions — not just on the happy path. My work spans manual and automated testing, performance benchmarking, and owning quality across the full development lifecycle.
+I'm a QA engineer focused on making software behave predictably under real conditions, not just on the happy path. My work spans manual and automated testing, performance benchmarking, and owning quality across the full development lifecycle.
 
-Right now I'm leading QA on a system for the **Sri Lanka Standards Institution (SLSI)** that handles applicant registration and certificate issuance. The goal is to replace a paper-heavy process with something faster and more auditable. I'm involved from requirements gathering through to design, testing, and deployment.
+Right now, I'm leading QA on a system for the **Sri Lanka Standards Institution (SLSI)** that handles applicant registration and certificate issuance. The goal is to replace a paper-heavy process with something faster and more auditable. I'm involved from requirements gathering through to design, testing, and deployment.
 
 ## What I Do
 
@@ -30,7 +30,7 @@ Right now I'm leading QA on a system for the **Sri Lanka Standards Institution (
 Manual and automated test design, exploratory testing, and regression suites. I care about catching the bug that only shows up on the third retry with a slow network.
 
 **Performance Testing**
-Load and stress testing with JMeter, across both web and mobile apps — finding where things bend before users do.
+Load and stress testing with JMeter, across both web and mobile apps, finding where things bend before users do.
 
 **Project Coordination**
 Keeping delivery on schedule and stakeholders in the loop, translating between "the build is red" and "here's what it means for the launch date."
@@ -41,9 +41,8 @@ Looking for the repeated manual step that should have been automated three sprin
 ## Tools & Tech
 
 ![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
@@ -61,10 +60,10 @@ Looking for the repeated manual step that should have been automated three sprin
 
 ## Let's Connect
 
-Open to opportunities, collaborations, and conversations about testing. If you need someone to find the problems before your users do — reach out on [LinkedIn](https://www.linkedin.com/in/roshan-wickramasooriya-003b5a207/) or through my [portfolio](https://roshan-wickramasooriya.netlify.app/).
+Open to opportunities, collaborations, and conversations about testing. If you need someone to find the problems before your users do, reach out on [LinkedIn](https://www.linkedin.com/in/roshan-wickramasooriya-003b5a207/) or through my [portfolio](https://roshan-wickramasooriya.netlify.app/).
 
 ---
 
 <p align="center">
-  <i>"Quality is not an act, it is a habit." — Aristotle</i>
+  <i>"Quality is not an act, it is a habit." - Aristotle</i>
 </p>
