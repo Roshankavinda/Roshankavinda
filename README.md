@@ -60,7 +60,7 @@ Looking for the repeated manual step that should have been automated three sprin
 
 ## Let's Connect
 
-Open to opportunities, collaborations, and conversations about testing. If you need someone to find the problems before your users do, reach out on [LinkedIn](https://www.linkedin.com/in/roshan-wickramasooriya-003b5a207/) or through my [portfolio](https://roshan-wickramasooriya.netlify.app/).
+Open to opportunities, collaborations, and conversations about testing. If you need someone to find the problems before your users do, reach out on [LinkedIn](https://www.linkedin.com/in/roshan-wickramasooriya-003b5a207/) or through my [Portfolio](https://roshan-wickramasooriya.netlify.app/).
 
 ---
 
