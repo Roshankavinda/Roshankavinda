@@ -51,12 +51,6 @@ Looking for the repeated manual step that should have been automated three sprin
 ![Security Testing](https://img.shields.io/badge/Security_Testing-2BBC8A?style=for-the-badge)
 ![Test Automation](https://img.shields.io/badge/Test_Automation-C0C0C0?style=for-the-badge&logoColor=black)
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshankavinda&show_icons=true&hide_border=false&theme=dracula" alt="Roshan's GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshankavinda&layout=compact&hide_border=false&theme=dracula" alt="Top Languages" height="165">
-</p>
 
 ## Let's Connect
 
