@@ -1,76 +1,70 @@
-### Hi there, I'm Roshan Wickramsooriya!
+<h1 align="center">Hi there, I'm Roshan Wickramasooriya 👋</h1>
 
-<div align="center">
-   <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="40px"><h2><h2 style="text-align:center; font-family:Arial Black, Gadget, sans-serif">Social &nbsp;&nbsp;Links</h2></h2>
-
-<br>
-<p align="center"> 
-  <a href="https://www.instagram.com/roshanwickramasooriya/"><img height="48" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/roshan-wickramasooriya-003b5a207/"><img height="48" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"></a>&nbsp;&nbsp;
-   <a href="https://roshan-wickramasooriya.netlify.app/"><img height="48" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-flat-colorful/2048/5304_-_RSS-256.png"></a>&nbsp;&nbsp;
-</p>
-<br>
-
-# <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="40px"> A B O U T _ M E
-<div align="center">
-
-<p>I am Roshan Wickramasoooriya, a dedicated and results-driven Software Quality Assurance Engineer with extensive experience in ensuring the highest standards of software performance and reliability. My career is characterized by a strong commitment to excellence, precision, and a deep understanding of quality assurance methodologies and best practices.</p>
-
-<p>Currently, I am spearheading a critical project for the Sri Lanka Standards Institution (SLSI), where I am implementing a comprehensive system for registering applicants and issuing certificates. This initiative aims to streamline the application process, reduce paperwork, and enhance operational efficiency. My role involves overseeing the entire software development lifecycle, from initial requirements gathering and system design to rigorous testing and final deployment.</p>
-
-</div>
-
-# <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="40px"> S K I L L S<img src="https://img.icons8.com/offices/2x/einstein.png"/>
-<br>
 <p align="center">
-   <strong>1. Quality Assurance & Testing:</strong> Proficient in manual and automated testing, with a keen eye for detail and a relentless pursuit of zero defects. Experienced with tools such as JMeter for performance testing, including applying these skills to mobile apps to ensure seamless user experiences.
+  <strong>Software Quality Assurance Engineer</strong> · Colombo, Sri Lanka
 </p>
 
 <p align="center">
-   <strong>2. Project Management:</strong> Adept at managing complex projects, ensuring timely delivery, and maintaining clear communication with stakeholders.
+  <a href="https://roshan-wickramasooriya.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/roshan-wickramasooriya-003b5a207/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/roshanwickramasooriya/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
-
-<p align="center">
-   <strong>3. Technical Proficiency:</strong> Strong command of various testing tools and frameworks, coupled with a deep understanding of software development principles.
-</p>
-
-<p align="center">
-   <strong>4. Process Improvement:</strong> Constantly seeking opportunities to optimize processes and enhance productivity through innovative solutions and best practices.
-</p>
-
-# <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="40px"> T O O L S  &  T E C H<img src="https://img.icons8.com/offices/2x/einstein.png"/>
- ![](https://img.shields.io/badge/JMeter-informational?style=for-the-badge&logo=apache-jmeter&logoColor=white&color=800080)
- ![](https://img.shields.io/badge/Cypress-informational?style=for-the-badge&logo=cypress&logoColor=white&color=800080) 
- ![](https://img.shields.io/badge/Manual-Testing-informational?style=for-the-badge&logo=manual-testing&logoColor=white&color=2bbc8a) 
- ![](https://img.shields.io/badge/Performance-Testing-informational?style=for-the-badge&logo=performance-testing&logoColor=white&color=C0C0C0)
- ![](https://img.shields.io/badge/Security-Testing-informational?style=for-the-badge&logo=security-testing&logoColor=white&color=2bbc8a)
- ![](https://img.shields.io/badge/Automation-informational?style=for-the-badge&logo=automation&logoColor=white&color=2bbc8a)
-
-<br>
-
-# <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="40px"> P A S S I O N _ F O R _ T E C H N O L O G Y
-<div align="center">
-
-<p>Beyond my professional responsibilities, I am passionate about staying at the forefront of technology trends and advancements. This includes exploring new testing methodologies, learning about emerging tools, and continually refining my skills to contribute effectively to any project I undertake.</p>
-
-</div>
-
-# <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="40px"> P E R S O N A L _ I N T E R E S T S
-<div align="center">
-
-<p>In my free time, I am committed to personal growth and professional development, always looking for ways to enhance my expertise and contribute to the broader QA community.</p>
-
-</div>
-
-# <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif" width="40px"> C O N N E C T _ W I T H _ M E
-<div align="center">
-
-<p>If you are looking for a quality-focused, detail-oriented, and innovative QA engineer to ensure the success of your software projects, let's connect! I am always open to new opportunities, collaborations, and professional conversations.</p>
-
-</div>
-
-<img align="" alt="Roshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Roshankavinda&show_icons=true&hide_border=false&layout=compact&theme=dracula"/>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact"/>
 
 ---
+
+## About Me
+
+I'm a QA engineer focused on making software behave predictably under real conditions — not just on the happy path. My work spans manual and automated testing, performance benchmarking, and owning quality across the full development lifecycle.
+
+Right now I'm leading QA on a system for the **Sri Lanka Standards Institution (SLSI)** that handles applicant registration and certificate issuance. The goal is to replace a paper-heavy process with something faster and more auditable. I'm involved from requirements gathering through to design, testing, and deployment.
+
+## What I Do
+
+**Quality Assurance & Testing**
+Manual and automated test design, exploratory testing, and regression suites. I care about catching the bug that only shows up on the third retry with a slow network.
+
+**Performance Testing**
+Load and stress testing with JMeter, across both web and mobile apps — finding where things bend before users do.
+
+**Project Coordination**
+Keeping delivery on schedule and stakeholders in the loop, translating between "the build is red" and "here's what it means for the launch date."
+
+**Process Improvement**
+Looking for the repeated manual step that should have been automated three sprints ago.
+
+## Tools & Tech
+
+![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-2BBC8A?style=for-the-badge)
+![Performance Testing](https://img.shields.io/badge/Performance_Testing-800080?style=for-the-badge)
+![Security Testing](https://img.shields.io/badge/Security_Testing-2BBC8A?style=for-the-badge)
+![Test Automation](https://img.shields.io/badge/Test_Automation-C0C0C0?style=for-the-badge&logoColor=black)
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshankavinda&show_icons=true&hide_border=false&theme=dracula" alt="Roshan's GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshankavinda&layout=compact&hide_border=false&theme=dracula" alt="Top Languages" height="165">
+</p>
+
+## Let's Connect
+
+Open to opportunities, collaborations, and conversations about testing. If you need someone to find the problems before your users do — reach out on [LinkedIn](https://www.linkedin.com/in/roshan-wickramasooriya-003b5a207/) or through my [portfolio](https://roshan-wickramasooriya.netlify.app/).
+
+---
+
+<p align="center">
+  <i>"Quality is not an act, it is a habit." — Aristotle</i>
+</p>
